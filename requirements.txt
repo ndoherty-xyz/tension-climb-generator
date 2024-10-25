@@ -1,11 +1,2 @@
-torch
-transformers
-peft
+numpy
 pandas
-python-dotenv
-huggingface-hub
-fastapi
-uvicorn
-pytest
-black
-flake8

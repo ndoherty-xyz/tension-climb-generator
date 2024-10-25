@@ -7,14 +7,6 @@ __pycache__/
 venv/
 ENV/
 
-# Data and Models
-data/raw/*
-data/processed/*
-models/*
-*.pt
-*.pth
-*.bin
-
 # IDE
 .idea/
 .vscode/
@@ -29,3 +21,11 @@ models/*
 # Logs
 *.log
 logs/
+
+# Repopack output
+repopack
+
+# Sqlite folder
+dbs
+
+.DS_STORE

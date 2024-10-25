@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1290 1393" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <image id="background" width="1290" height="1393" xlink:href="assets/tension-board-12x12-spray.png"/>
+  </defs>
+  <use xlink:href="#background" x="0" y="0"/>
+  <line x1="31" y1="0" x2="31" y2="1393" stroke="lightgray" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="1253" y1="0" x2="1253" y2="1393" stroke="lightgray" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="0" y1="54" x2="1290" y2="54" stroke="lightgray" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="0" y1="1346" x2="1290" y2="1346" stroke="lightgray" stroke-width="1" stroke-dasharray="4"/>
+  <circle cx="871.1" cy="1346.0" r="30" fill="none" stroke="#FF69B4" stroke-width="5"/>
+  <circle cx="1023.9" cy="1270.0" r="30" fill="none" stroke="#FF69B4" stroke-width="5"/>
+  <circle cx="1023.9" cy="1118.0" r="30" fill="none" stroke="#FF69B4" stroke-width="5"/>
+  <circle cx="832.9" cy="1004.0" r="30" fill="none" stroke="#00FF00" stroke-width="5"/>
+  <circle cx="1023.9" cy="966.0" r="30" fill="none" stroke="#00FF00" stroke-width="5"/>
+  <circle cx="832.9" cy="700.0" r="30" fill="none" stroke="#0000FF" stroke-width="5"/>
+  <circle cx="680.2" cy="548.0" r="30" fill="none" stroke="#0000FF" stroke-width="5"/>
+  <circle cx="642.0" cy="282.0" r="30" fill="none" stroke="#0000FF" stroke-width="5"/>
+  <circle cx="718.4" cy="206.0" r="30" fill="none" stroke="#0000FF" stroke-width="5"/>
+  <circle cx="642.0" cy="54.0" r="30" fill="none" stroke="#FF0000" stroke-width="5"/>
+</svg>
