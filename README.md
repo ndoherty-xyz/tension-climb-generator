@@ -1,6 +1,6 @@
 # Tension Board Climb Generator
 
-A program to generate 12x12 Tension Board Spray layout climbs using a Markov chain implementation.
+A collection of python scripts used to generate different Tension Board climbs and generate the output pattern. Uses a simple markov chain implementation based on the existing climb database.
 
 <br />
 
